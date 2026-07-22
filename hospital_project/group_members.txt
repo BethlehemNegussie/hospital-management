@@ -1,0 +1,12 @@
+Project Title: Hospital Appointment System
+
+Section 1
+
+Group Members:
+
+Name                    ID
+Bethelehem Fetene       UGR/0870/16
+Bethlehem Negussie      UGR/1524/16
+Elbetel Shiferaw        UGR/0028/16
+Liya Fitsumbrehan       UGR/1587/16
+Kidist Hayalu           UGR/8838/16
